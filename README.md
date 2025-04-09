@@ -18,7 +18,7 @@ I'm Chris. I hope that you, reader, enjoy looking through my various trinkets an
 
 ### Currently Working On
 
-![seneca](https://github.com/christopherjmedlin/seneca)
+Top secret
 
 ### LinkedIn
 
